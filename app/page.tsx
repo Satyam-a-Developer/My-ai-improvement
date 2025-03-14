@@ -16,7 +16,7 @@ export default function Home() {
         Lets Get started.
         </div>
         <ul className="text-white text-center mt-[100px] text-[30px] font-bold">
-          <li>1. Click on the 3D model</li>
+          <li>Coming Soon....</li>
         </ul>
     </main>
   );
